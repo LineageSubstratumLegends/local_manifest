@@ -5,6 +5,6 @@
     <remove-project name="LineageOS/android_packages_apps_Settings" />
 
     <!-- Add repos for Substratum support -->
-    <project path="frameworks/base" name="LineageSubstratumLegends/android_frameworks_base" remote="github" revision="lineage-22.1" />
-    <project path="packages/apps/Settings" name="LineageSubstratumLegends/android_packages_apps_Settings" remote="github" revision="lineage-22.1" />
+    <project path="frameworks/base" name="LineageSubstratumLegends/android_frameworks_base" remote="github" revision="lineage-22.0" />
+    <project path="packages/apps/Settings" name="LineageSubstratumLegends/android_packages_apps_Settings" remote="github" revision="lineage-22.0" />
 </manifest>
